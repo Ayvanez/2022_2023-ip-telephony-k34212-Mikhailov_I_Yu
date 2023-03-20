@@ -6,7 +6,7 @@
 ###### Author: Mikhailov Ivan Yuryevich
 ###### Lab: Lab1
 ###### Date of create: 06.03.2023
-###### Date of finished: 
+###### Date of finished: 06.03.2023
 ***
 # Базовая настройка ip-телефонов в среде Сisco packet tracer
 ### Задачи работы:
