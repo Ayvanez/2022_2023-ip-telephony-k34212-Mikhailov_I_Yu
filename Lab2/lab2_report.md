@@ -40,6 +40,7 @@
 ![image](https://user-images.githubusercontent.com/56927592/226291539-887e6ad1-9603-4b86-8c06-d218baefe5b7.png)
 
 7. Создание телефонных линий.
+
 ![image](https://user-images.githubusercontent.com/56927592/226291915-f8d45b4c-5f8e-456d-862b-ff30a73d4b51.png)
 
 8. Проверка настроек в конфиге роутера. 
@@ -47,6 +48,7 @@
 ![image](https://user-images.githubusercontent.com/56927592/226292364-c0d526a6-75d1-4b9c-b800-aa48f03a27ca.png)
 
 9. Проверка доступности путем отправки пингов.
+
 ![image](https://user-images.githubusercontent.com/56927592/226292482-465c5694-dfee-4bbf-a7a9-b87d921f28fd.png)
 
 10. Реализация звонка между трубками 1111 и 2222.
